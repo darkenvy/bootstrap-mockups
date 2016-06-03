@@ -1,0 +1,91 @@
+body {
+  /*font-family: Segoe UI, Helvetica Neue, Arial, sans-serif;*/
+  font-family: wf_segoe-ui_semilight,wf_segoe-ui_light,wf_segoe-ui_normal,'Segoe UI Semilight','Segoe UI Light','Segoe UI',Arial,sans-serif !important;
+}
+
+.header {
+  margin-top: 20px;
+}
+
+#logo {
+  max-height: 23px;
+}
+
+input {
+  width: 100%;
+  height: 30px;
+}
+
+.ddSpace {
+  margin-left: 30px;
+  color: black;
+}
+
+#cara-box {
+  padding: 0;
+  margin-top: 10px;
+}
+
+.carousel img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.spacer {
+  /*position: relative;*/
+  /*border: 1px solid red;*/
+  margin-top: 50px;
+}
+
+.thumbnail p {
+  text-align: center;
+}
+
+#winapps {
+  height: 500px;
+  /*border: 1px solid blue;*/
+  background-color: #FFB901;
+}
+
+#winapps img {
+  height: 500px;
+  background-size: cover;
+  margin-left: -50px;
+}
+
+
+#summer {
+  /*border: 1px solid red;*/
+  margin-top: 175px;
+}
+
+#remote {
+  /*border: 1px solid blue;*/
+  height: 500px;
+  background-image: url('../img/remote.jpg');
+  background-size: cover;
+}
+
+#followMS {
+  background-color: #ccc;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 50px;
+}
+
+.inset {
+  padding: 0 50px 50px 50px;
+}
+
+.white {
+  color: white;
+  font-size: 16pt;
+  text-align: center;
+  /*line-height: 750px;*/
+}
+
+.footer {
+  background-color: #F2F2F2;
+  padding-top: 50px;
+}
